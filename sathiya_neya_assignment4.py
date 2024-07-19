@@ -48,7 +48,6 @@ manufacturer_counts.plot(kind='bar')
 plt.title('Number of Cereals by Manufacturer')
 plt.xlabel('Manufacturer')
 plt.ylabel('Number of Cereals')
-plt.xticks(rotation=50)
 plt.show()
 
 # %%
